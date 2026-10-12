@@ -1,0 +1,56 @@
+{
+  "title": "Rescuing Cultural Treasures",
+  "paragraphs": [
+    {
+      "heading": "Introduction",
+      "topic": "전쟁 중 유럽의 문화유산을 보호하기 위해 모인 모뉴먼츠 맨",
+      "paragraph_title": "문화유산을 지킨 전문가들",
+      "sentences": [
+        {
+          "en": "During World War II, there was a group of people who risked everything to protect priceless works of art from ruin.",
+          "ko": "제2차 세계대전 동안 귀중한 예술 작품을 파괴로부터 보호하기 위해 모든 것을 건 사람들이 있었다.",
+          "blanks": ["risked", "priceless", "ruin"],
+          "grammar_correct": "who", "grammar_wrong": "which",
+          "grammar_reason": "선행사 people을 받는 주격 관계대명사이므로 who가 알맞다.",
+          "connection": ""
+        },
+        {
+          "en": "In 1943, around 345 people from 14 different Allied nations came together to form the Monuments, Fine Arts, and Archives (MFAA) program.",
+          "ko": "1943년에 14개 연합국 출신 약 345명이 MFAA 프로그램을 만들기 위해 모였다.",
+          "blanks": ["Allied", "together", "form"],
+          "grammar_correct": "to form", "grammar_wrong": "to forming",
+          "grammar_reason": "목적을 나타내는 to부정사에는 동사원형 form이 온다.",
+          "connection": "앞 문장에서 소개한 사람들의 조직 결성 시기와 규모를 구체화한다."
+        },
+        {
+          "en": "They were not trained soldiers but scholars and experts of various kinds, such as professors, historians, and architects.",
+          "ko": "그들은 훈련된 군인이 아니라 교수, 역사학자, 건축가 같은 다양한 전문가들이었다.",
+          "blanks": ["trained", "scholars", "various"],
+          "grammar_correct": "were", "grammar_wrong": "was",
+          "grammar_reason": "복수 주어 They에는 복수 과거형 were가 온다.",
+          "connection": "앞 문장의 약 345명이 어떤 사람들이었는지 They로 받아 설명한다."
+        },
+        {
+          "en": "These brave men and women volunteered to protect Europe’s cultural heritage and became known as the “Monuments Men.”",
+          "ko": "이 용감한 사람들은 유럽의 문화유산 보호를 자원했고 ‘모뉴먼츠 맨’으로 알려졌다.",
+          "blanks": ["volunteered", "heritage", "known"],
+          "grammar_correct": "to protect", "grammar_wrong": "to protecting",
+          "grammar_reason": "volunteer 뒤에는 목적어 역할을 하는 to부정사가 온다.",
+          "connection": "이 전문가들이 무엇을 자원했고 어떤 이름으로 불리게 되었는지 이어서 밝힌다."
+        }
+      ],
+      "questions": [
+        {"question": "이 문단은 어떤 사람들을 소개하는가?", "answer": "전쟁 중 유럽의 문화유산을 지키려 한 모뉴먼츠 맨을 소개한다."},
+        {"question": "MFAA는 언제, 어느 정도 규모로 결성되었는가?", "answer": "1943년에 14개 연합국 출신 약 345명이 모였다."},
+        {"question": "그 구성원들은 군인과 어떻게 달랐는가?", "answer": "훈련된 군인이 아니라 교수, 역사학자, 건축가 등의 학자와 전문가였다."},
+        {"question": "그들은 어떤 일을 자원했으며 무엇이라 불렸는가?", "answer": "유럽 문화유산 보호를 자원했고 모뉴먼츠 맨이라 불렸다."}
+      ],
+      "ox": [
+        {"statement": "이 단체는 제2차 세계대전 중 유럽 문화유산을 보호하려 했다.", "answer": "O", "reason": "첫 문장과 마지막 문장에 이 목적이 나타난다."},
+        {"statement": "MFAA에는 한 나라 출신의 약 345명이 모였다.", "answer": "X", "reason": "345명은 14개 연합국에서 왔다."},
+        {"statement": "구성원은 예술품 보호를 위해 특별히 훈련된 군인들이었다.", "answer": "X", "reason": "훈련된 군인이 아니라 학자와 각 분야의 전문가였다."},
+        {"statement": "모뉴먼츠 맨이라는 이름은 문화유산 보호를 자원한 사람들에게 붙었다.", "answer": "O", "reason": "마지막 문장에 자원 활동과 명칭이 함께 나온다."}
+      ]
+    }
+  ]
+}
